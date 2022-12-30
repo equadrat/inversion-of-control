@@ -8,8 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="equadrat.Framework.5.Core" Version="5.0.6" />
-    <PackageReference Include="equadrat.Framework.5.Core.Interfaces" Version="5.0.6" />
+    <PackageReference Include="equadrat.Framework.Core" Version="5.7.0" />
+    <PackageReference Include="equadrat.Framework.Core.Interfaces" Version="5.7.0" />
   </ItemGroup>
 
 </Project>
